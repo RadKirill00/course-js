@@ -1,5 +1,5 @@
 'use strict'
 let c = 100
-let a = -c
+let a = c
 alert(a);
 
