@@ -1,5 +1,6 @@
 'use strict'
-let a = 13;
-let b = 5;
-alert(a % b);
+let txt = 'null'
+let a = 'qweqwe'
+let b = txt * a
+alert(-10 / 0)
 
