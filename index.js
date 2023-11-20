@@ -1,4 +1,2 @@
 'use strict'
-let num1 = 123;
-let num2 = 456;
-console.log(num2);
+alert( 2 + Number('3') )
